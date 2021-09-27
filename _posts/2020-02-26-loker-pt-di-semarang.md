@@ -18,13 +18,13 @@ Persyaratan job hunter bisa melamar posisi "Admin Data Entry" :
 • Bersedia bekerja secara online / ontime.
 • Pengalaman di bidang data entry (disukai).
 • Bersedia mengikuti seleksi & training.
-• Penempatan Semarang.
+•Penempatan Semarang.
 • Kelengkapan Cv & Lamaran (Fotocopy KTP, KK, Ijasah dan foto 4x6 (1lembar).
 
 Keuntungan:
 • 5 hari kerja.
 • Basic allowence (gaji pokok).
-• Insentif dan bonus.
+• Insentif dan bonus
 • Jenjang karir.
 • Jaminan kesehatan.
 • Jaminan ketenagakerjaan.
