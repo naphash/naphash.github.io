@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Lowongan Pekerjaan Indonesia
+title: Loker
 
 # Your name to show in the footer
 author: Some Person
@@ -16,9 +16,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://naphash.github.io"
+    - Beautiful Jekyll: "https://naphash.github.io"
     - Learn markdown: "https://naphash.github.io"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://naphash.github.io"
 
 # --- Logo --- #
 
