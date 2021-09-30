@@ -92,7 +92,7 @@ feed_show_tags: true
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "Kumpulan Informasi Lowongan Pekerjaan Terbaru"
 
 # --- Colours / background image --- #
 
@@ -195,7 +195,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /title/
 paginate: 5
 
 kramdown:
