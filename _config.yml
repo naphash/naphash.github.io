@@ -139,7 +139,7 @@ mobile-theme-col: "#0085A1"
 #cloudflare_analytics: ""
 
 # Google Tag Manager ID
-gtm: "<meta name="google-site-verification" content="yeGNFjZbY9hCfgqf6JNvNb4wxJKY0zZgh5VukB1lH7M" />"
+# gtm: "<meta name="google-site-verification" content="yeGNFjZbY9hCfgqf6JNvNb4wxJKY0zZgh5VukB1lH7M" />"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
@@ -195,7 +195,7 @@ date_format: "%B %-d, %Y"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /title/
+permalink: /:title/
 paginate: 5
 
 kramdown:
