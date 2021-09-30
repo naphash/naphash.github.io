@@ -3,11 +3,11 @@ layout: post
 title: Loker Admin Data Entry PT Rifan Financindo Semarang.
 subtitle: Loker Admin Data Entry PT Rifan Financindo.
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [Loker, PT]
 ---
-
+Lowongan pekerjaan di PT Rifan Financindo Semarang membuka lowongan bagi kamu yang memiliki kelihaian dalam penginputan data.
 Persyaratan job hunter bisa melamar posisi "Admin Data Entry" :
 
 • Laki - Laki & Perempuan.
