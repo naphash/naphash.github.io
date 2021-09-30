@@ -10,7 +10,9 @@ tags: [books, test]
 
 Persyaratan job hunter bisa melamar posisi "Admin Data Entry" :
 • Laki - Laki & Perempuan.
+
 • Pendidikan minimal SMA/SMK.
+
 • Fresh Graduate
 • Usia maksimal 35 tahun.
 • Dapat mengoperasikan komputer.
