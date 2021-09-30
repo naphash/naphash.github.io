@@ -5,10 +5,11 @@ subtitle: Loker Admin Data Entry PT Rifan Financindo.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [Loker, PT]
 ---
 
 Persyaratan job hunter bisa melamar posisi "Admin Data Entry" :
+
 • Laki - Laki & Perempuan.
 
 • Pendidikan minimal SMA/SMK.
